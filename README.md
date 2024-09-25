@@ -1,2 +1,2 @@
 # Barça
-(![imatge]()
+(![imatge](Barça.jpg)
