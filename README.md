@@ -23,21 +23,7 @@
 
   ![imatge](Leverkusen.jpg)
 
-
-  # Mejores equipos de cada año 2008 al 2024
-
-  # 2008
-
-  + Manchester United
-
-  ![imatge](https://github.com/user-attachments/assets/d3f4d820-d899-42e8-a55a-bb22d55e5b44)
-
-  # 2009
-
-  + F.C. Barcelona
-
-
-   ![imatge](BARca.jpeg)
-
-
-
+<html>
+  <body background="https://assets.digitalocean.com/blog/static/hacktoberfest-is-back/hero.png">
+  </body>
+</html>
